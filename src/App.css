@@ -21,6 +21,22 @@
   margin-right: 5px;
   font-size: large;
   cursor: pointer;
+  transition: 400ms;
+ }
+
+ .button:hover {
+  width: 40%;
+  margin: 0.5em 0;
+  padding: 0.5em;
+  border: 4px solid teal;
+  border-radius: 6px;
+  background: cyan;
+  color: #fff;
+  align-items: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: large;
+  cursor: pointer;
  }
 
 input {
