@@ -67,4 +67,16 @@ li > button {
   border-radius: 8px;
   font-size: 15px;
   align-items: center;
+
+}
+
+li > button:hover {
+  float: right;
+  background-color: maroon;
+  border: maroon;
+  color: red;
+  border-radius: 8px;
+  font-size: 15px;
+  align-items: center;
+  transition: 400ms;
 }
